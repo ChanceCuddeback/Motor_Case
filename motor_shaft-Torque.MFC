@@ -1,0 +1,16 @@
+[StartTime]
+motor_shaft-Torque.MFC=3s
+[SolverState]
+motor_shaft-Torque.MFC=2
+[MainFrame]
+motor_shaft-Torque.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAPEBAAAAAELFAAAAACCCAAAAA
+[ShowMin]
+motor_shaft-Torque.MFC=No
+[SolverType]
+motor_shaft-Torque.MFC=Linear Analysis
+[StudyType]
+motor_shaft-Torque.MFC=0
+[StudyName]
+motor_shaft-Torque.MFC=Torque
+[Solver]
+motor_shaft-Torque.MFC=Iterative
